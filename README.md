@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Brenton Forrest
 
 You can use the [editor on GitHub](https://github.com/Brenton-Forrest/Brenton-Forrest.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

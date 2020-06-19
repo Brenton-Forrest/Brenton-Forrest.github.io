@@ -37,9 +37,14 @@ Syntax highlighted code block
 
 <p align="center">
   <img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg" width="300" title="[16Prsonalites]">
-  <img src="https://brenton-forrest.github.io/images/LearningStyleTest.jpg" width="300" alt=["EducationPlanner.org"]>
-<img src="https://brenton-forrest.github.io/images/PsychometricsF1.jpg">
-<img src="https://brenton-forrest.github.io/images/PsychometricsF2.jpg">
-<img src="https://brenton-forrest.github.io/images/PsychometricsF3.jpg">
-<img src="https://brenton-forrest.github.io/images/PsychometricsF4.jpg">
-<img src="https://brenton-forrest.github.io/images/PsychometricsF5.jpg">
+  <img src="https://brenton-forrest.github.io/images/LearningStyleTest.jpg"     width="300" title=["EducationPlanner.org"]>
+  <img src="https://brenton-forrest.github.io/images/PsychometricsF1.jpg"
+  width="300" title="[OpenPsychometrics.org]">
+  <img src="https://brenton-forrest.github.io/images/PsychometricsF2.jpg"
+  width="300" title="[OpenPsychometrics.org]">
+  <img src="https://brenton-forrest.github.io/images/PsychometricsF3.jpg"
+  width="300" title="[OpenPsychometrics.org]">
+  <img src="https://brenton-forrest.github.io/images/PsychometricsF4.jpg"
+  width="300" title="[OpenPsychometrics.org]">
+  <img src="https://brenton-forrest.github.io/images/PsychometricsF5.jpg"
+  width="300" title="[OpenPsychometrics.org]">

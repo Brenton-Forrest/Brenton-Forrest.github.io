@@ -42,7 +42,10 @@ Syntax highlighted code block
        </style>    
 <h2> Myers-Briggs Test </h2> <h2> Learning Style Test </h2> <h2> Psychometrics Test </h2>
 
-[16Prsonalites]("https://brenton-forrest.github.io/images/B-MsPersonality.jpg")
+<p align="center">
+  <img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg" width="350" title="16Prsonalites">
+  <img src="https://brenton-forrest.github.io/images/LearningStyleTest.jpg" width="350" alt="accessibility text">
+</p>[16Prsonalites]("https://brenton-forrest.github.io/images/B-MsPersonality.jpg")
 <img src="https://brenton-forrest.github.io/images/LearningStyleTest.jpg">
 <img src="https://brenton-forrest.github.io/images/PsychometricsF1.jpg">
 <img src="https://brenton-forrest.github.io/images/PsychometricsF2.jpg">

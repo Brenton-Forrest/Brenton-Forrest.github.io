@@ -19,15 +19,16 @@ Syntax highlighted code block
 
 ## Interest in IT
 
-My Main interest in IT is that you have ability to build a computer or Robotics from the base up.
+<p> My Main interest in IT is that you have ability to build a computer or Robotics from the base up.
 
-My interest it stared way back in High School with just simple coding the we did for a game for a computer/science activity.
+<p> My interest it stared way back in High School with just simple coding the we did for a game for a computer/science activity.
 
-I have only an at home learning of the basic software adjustment and configurations at the moment.
+<p> I have only an at home learning of the basic software adjustment and configurations at the moment.
 
-I chose RMIT as it looked the most appealing with its course structure.
+<p> I chose RMIT as it looked the most appealing with its course structure.
 
-I hope to learn as much as I can about every thing to do with DevOps but I expect with my studies at RMIT I should be able to **Master** the basics in IT.  
+<p> I hope to learn as much as I can about every thing to do with DevOps but I expect with my studies at RMIT I should be able to **Master** the basics in IT.
+  
 ### Ideal Job
 #### Profile
 ##### Project Idea
@@ -44,4 +45,4 @@ I hope to learn as much as I can about every thing to do with DevOps but I expec
        </style>    
 <h2> Myers-Briggs Test</h2>
 
-<img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg"
+<img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg">

@@ -15,10 +15,9 @@ Syntax highlighted code block
 <p> Brenton Forrest
 <p> 3863020
 <p> s3863020@student.rmit.edu.au
-<p> Doggy Daddy to two beautiful English Staffordshire Terriers
+<p> Doggy Daddy to two beautiful English Staffordshire Terriers.
 
 ## Interest in IT
-
 <p> My Main interest in IT is that you have ability to build a computer or Robotics from the base up.
 
 <p> My interest it stared way back in High School with just simple coding the we did for a game for a computer/science activity.

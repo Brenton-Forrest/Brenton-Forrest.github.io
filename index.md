@@ -24,11 +24,11 @@ Syntax highlighted code block
 <p> I chose RMIT as it looked the most appealing with its course structure.
 <p> I hope to learn as much as I can about every thing to do with DevOps but I expect with my studies at RMIT I should be able to ***Master*** the basics in IT.
 
-#<h1> Ideal Job </h1>
+<h1> Ideal Job </h1>
 <p>
-#<h1> Profile </h1>
+<h1> Profile </h1>
 <p>
-# <h1> Project Idea </h1>
+<h1> Project Idea </h1>
 
 
 
@@ -40,9 +40,9 @@ Syntax highlighted code block
                color: white;
            }
        </style>    
-<h2> Myers-Briggs Test </h2><h2> Learning Style Test </h2><h2> Psychometrics Test </h2>
+<h2> Myers-Briggs Test </h2> <h2> Learning Style Test </h2> <h2> Psychometrics Test </h2>
 
-<img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg">
+<img src=[16Prsonalites]"https://brenton-forrest.github.io/images/B-MsPersonality.jpg">
 <img src="https://brenton-forrest.github.io/images/LearningStyleTest.jpg">
 <img src="https://brenton-forrest.github.io/images/PsychometricsF1.jpg">
 <img src="https://brenton-forrest.github.io/images/PsychometricsF2.jpg">

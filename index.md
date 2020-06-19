@@ -28,9 +28,9 @@ Syntax highlighted code block
 
 <p> I hope to learn as much as I can about every thing to do with DevOps but I expect with my studies at RMIT I should be able to ****Master**** the basics in IT.
 
-<h3> ### Ideal Job
-<h4> #### Profile
-<h5> ##### Project Idea
+#Ideal Job
+# Profile
+<h5>##### Project Idea </h5>
 
 
 
@@ -42,6 +42,7 @@ Syntax highlighted code block
                color: white;
            }
        </style>    
-<h2> Myers-Briggs Test</h2>
+<h2> Myers-Briggs Test</h2> <h2> Learning Style Test</h2>
 
 <img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg">
+<img src="https://brenton-forrest.github.io/images/LearningStyleTest.jpg"

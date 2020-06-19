@@ -37,7 +37,7 @@ Syntax highlighted code block
 
 <p align="center">
   <img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg" width="300" title="[16Prsonalites]">
-  <img src="https://brenton-forrest.github.io/images/LearningStyleTest.jpg"     width="300" title=["EducationPlanner.org"]>
+  <img src="https://brenton-forrest.github.io/images/LearningStyleTest.jpg"     width="300" title="EducationPlanner.org">
   <img src="https://brenton-forrest.github.io/images/PsychometricsF1.jpg"
   width="300" title="[OpenPsychometrics.org]">
   <img src="https://brenton-forrest.github.io/images/PsychometricsF2.jpg"

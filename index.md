@@ -11,30 +11,28 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# My Personal Information
+<p> Brenton Forrest
+<p> 3863020
+<p> s3863020@student.rmit.edu.au
+<p> Doggy Daddy to two beautiful English Staffordshire Terriers
 
-- Bulleted
-- List
+## Interest in IT
 
-1. Numbered
-2. List
+My Main interest in IT is that you have ability to build a computer or Robotics from the base up.
 
-**Bold** and _Italic_ and `Code` text
+My interest it stared way back in High School with just simple coding the we did for a game for a computer/science activity.
 
-[Link](url) and ![Image](src)
-```
+I have only an at home learning of the basic software adjustment and configurations at the moment.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I chose RMIT as it looked the most appealing with its course structure.
 
-### Jekyll Themes
+I hope to learn as much as I can about every thing to do with DevOps but I expect with my studies at RMIT I should be able to **Master** the basics in IT.  
+### Ideal Job
+#### Profile
+##### Project Idea
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Brenton-Forrest/Brenton-Forrest.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
        <style>
            img{

@@ -32,15 +32,15 @@ Syntax highlighted code block
 
 
 
-<h2> Myers-Briggs Test </h2> <h1> 16Personalities </h1>
+<h2> Myers-Briggs Test </h2> <h4> 16Personalities </h4>
 
 <p align="center">
   <img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg" width="300" title="[16Prsonalites]">
-<h2> Learning Style Test </h2> <h1> EducationPlanner.org </h1>
+<h2> Learning Style Test </h2> <h4> EducationPlanner.org </h4>
 
 <p align="center">
   <img src="https://brenton-forrest.github.io/images/LearningStyleTest.jpg"     width="300" title="EducationPlanner.org">
-  <h2> Psychometrics Test </h2> <h1> OpenPsychometrics.org</h1>
+  <h2> Psychometrics Test </h2> <h4> OpenPsychometrics.org </h4>
 
   <img src="https://brenton-forrest.github.io/images/PsychometricsF1.jpg"
   width="300" title="[OpenPsychometrics.org]">

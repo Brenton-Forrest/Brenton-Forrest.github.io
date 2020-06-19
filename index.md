@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 <p> I chose RMIT as it looked the most appealing with its course structure.
 
-<p> I hope to learn as much as I can about every thing to do with DevOps but I expect with my studies at RMIT I should be able to **Master** the basics in IT.
+<p> I hope to learn as much as I can about every thing to do with DevOps but I expect with my studies at RMIT I should be able to ***Master*** the basics in IT.
 
 ### Ideal Job
 #### Profile
@@ -36,7 +36,7 @@ Syntax highlighted code block
 
        <style>
            img{
-              width: 100%;
+              width:25%;
            }
            h2 {
                color: white;

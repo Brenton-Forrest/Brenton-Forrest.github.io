@@ -1,21 +1,12 @@
-## Brenton Forrest
-
-You can use the [editor on GitHub](https://github.com/Brenton-Forrest/Brenton-Forrest.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+<p align="center">
+  <img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg" width="300" title=Brenton-Forrest>
 ## My Personal Information
 <p> Brenton Forrest
-<p> 3863020
+<p> Student ID 3863020
 <p> s3863020@student.rmit.edu.au
 <p> Doggy Daddy to two beautiful English Staffordshire Terriers.
+p align="center">
+  <img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg" width="300" title=>
 
 <h1> Interest in IT </h1>
 <p> My Main interest in IT is that you have ability to build a computer or Robotics from the base up.
@@ -35,7 +26,7 @@ Syntax highlighted code block
 <h2> Myers-Briggs Test </h2> <h4> 16Personalities </h4>
 
 <p align="center">
-  <img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg" width="300" title="[16Prsonalites]">
+  <img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg" width="300" title="16Prsonalites">
 <h2> Learning Style Test </h2> <h4> EducationPlanner.org </h4>
 
 <p align="center">
@@ -43,14 +34,14 @@ Syntax highlighted code block
   <h2> Psychometrics Test </h2> <h4> OpenPsychometrics.org </h4>
 
   <img src="https://brenton-forrest.github.io/images/PsychometricsF1.jpg"
-  width="300" title="[OpenPsychometrics.org]">
+  width="300" title="OpenPsychometrics.org">
   <img src="https://brenton-forrest.github.io/images/PsychometricsF2.jpg"
-  width="300" title="[OpenPsychometrics.org]">
+  width="300" title="OpenPsychometrics.org">
   <img src="https://brenton-forrest.github.io/images/PsychometricsF3.jpg"
-  width="300" title="[OpenPsychometrics.org]">
+  width="300" title="OpenPsychometrics.org">
   <img src="https://brenton-forrest.github.io/images/PsychometricsF4.jpg"
-  width="300" title="[OpenPsychometrics.org]">
+  width="300" title="OpenPsychometrics.org">
   <img src="https://brenton-forrest.github.io/images/PsychometricsF5.jpg"
-  width="300" title="[OpenPsychometrics.org]">
+  width="300" title="OpenPsychometrics.org">
 
 <h1> Project Idea </h1>

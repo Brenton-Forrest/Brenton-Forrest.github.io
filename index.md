@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg" width="300" title=Brenton-Forrest>
-## My Personal Information
+  <img src="https://brenton-forrest.github.io/images/BrentonForrest.JPG"
+  width="200" title="Brenton-Forrest">
+<h1> My Personal Information </h1>
 <p> Brenton Forrest
 <p> Student ID 3863020
 <p> s3863020@student.rmit.edu.au
 <p> Doggy Daddy to two beautiful English Staffordshire Terriers.
-p align="center">
-  <img src="https://brenton-forrest.github.io/images/B-MsPersonality.jpg" width="300" title=>
+<p align="center">
+  <img src="https://brenton-forrest.github.io/images/staffies.jpeg"
+  width="200" title="Doggies">
 
 <h1> Interest in IT </h1>
 <p> My Main interest in IT is that you have ability to build a computer or Robotics from the base up.

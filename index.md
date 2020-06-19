@@ -17,7 +17,7 @@ Syntax highlighted code block
 <p> s3863020@student.rmit.edu.au
 <p> Doggy Daddy to two beautiful English Staffordshire Terriers.
 
-## Interest in IT
+<h2> ## Interest in IT
 <p> My Main interest in IT is that you have ability to build a computer or Robotics from the base up.
 
 <p> My interest it stared way back in High School with just simple coding the we did for a game for a computer/science activity.
@@ -26,11 +26,11 @@ Syntax highlighted code block
 
 <p> I chose RMIT as it looked the most appealing with its course structure.
 
-<p> I hope to learn as much as I can about every thing to do with DevOps but I expect with my studies at RMIT I should be able to ***Master*** the basics in IT.
+<p> I hope to learn as much as I can about every thing to do with DevOps but I expect with my studies at RMIT I should be able to ****Master**** the basics in IT.
 
-### Ideal Job
-#### Profile
-##### Project Idea
+<h3> ### Ideal Job
+<h4> #### Profile
+<h5> ##### Project Idea
 
 
 

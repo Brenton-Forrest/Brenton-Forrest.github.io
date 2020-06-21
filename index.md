@@ -4,9 +4,9 @@
 <h1> My Personal Information </h1>
 
 <p> Brenton Forrest.
-<p>Student ID 3863020.
-<p>s3863020@student.rmit.edu.au
-<p>Doggy Daddy to two beautiful English Staffordshire Terriers.
+<p> Student ID 3863020.
+<p> s3863020@student.rmit.edu.au
+<p> Doggy Daddy to two beautiful English Staffordshire Terriers.
 
 <p align="center">
   <img src="https://brenton-forrest.github.io/images/staffies.jpeg"

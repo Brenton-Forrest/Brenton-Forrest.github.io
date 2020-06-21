@@ -2,7 +2,7 @@
   <img src="https://brenton-forrest.github.io/images/BrentonForrest.JPG"
   width="200" title="Brenton-Forrest">
 <h1> My Personal Information </h1>
-<p> Brenton Forrest
+Brenton Forrest
 Student ID 3863020
 s3863020@student.rmit.edu.au
 Doggy Daddy to two beautiful English Staffordshire Terriers.

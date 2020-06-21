@@ -2,10 +2,10 @@
   <img src="https://brenton-forrest.github.io/images/BrentonForrest.JPG"
   width="200" title="Brenton-Forrest">
 <h1> My Personal Information </h1>
-Brenton Forrest
-Student ID 3863020
-s3863020@student.rmit.edu.au
-Doggy Daddy to two beautiful English Staffordshire Terriers.
+<p> Brenton Forrest
+    Student ID 3863020
+    s3863020@student.rmit.edu.au
+    Doggy Daddy to two beautiful English Staffordshire Terriers.
 <p align="center">
   <img src="https://brenton-forrest.github.io/images/staffies.jpeg"
   width="200" title="Doggies">
@@ -21,8 +21,9 @@ I hope to learn as much as I can about everything to do with DevOps but I expect
 <p>Here is copy of an ideal job that I would hope to gain after completing this course with the relevant experience.
 <p align="center">
   <img src="https://brenton-forrest.github.io/images/SeekJobScreenshot.jpg" width="200" title="seek.com.au Screenshot 1">
-  <p align="center">
+<p align="center">
     <img src="https://brenton-forrest.github.io/images/SeekJobScreenshot1.jpg" width="200" title="seek.com.au Screenshot 2">
+
 This Position is appealing to because it is a customer support role that deals with a multitude of clients. The job offers on the job training for the right candidate this is ideal for me as I love to learn from experts in their field.
 The qualifications needed for this position are Linux System Administration, Windows desktop and server support, basic Networking, routing and firewall knowledge as well as great Customer Service along with written and verbal communication skills. 3 years active IT experience in a Support role
 The skills I currently acquire are great Customer service due to my background in Hospitality and my intermediate computer literacy skills and basic knowledge of software configurations.

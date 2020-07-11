@@ -6,7 +6,7 @@
 <p> Brenton Forrest.
 <p> Student ID 3863020.
 <p> s3863020@student.rmit.edu.au
-<p> Doggy Daddy to two beautiful English Staffordshire Terriers.
+<p> Hi, I’m Brenton, I’m a born and raised Queenslander and currently reside in Brisbane, QLD. When in not working I like to play on my gaming Console as well spending time with my family including my fur babies. I am a qualified Chef with over a Decade of Industry Experience but I’m after a career change. So, I have enrolled to study with RMIT to get my degree in IT to help me excel with my new career path. Thanks for taking the time to check out my profile!
 
 <p align="center">
   <img src="https://brenton-forrest.github.io/images/staffies.jpeg"
@@ -89,7 +89,22 @@ There may be the need to speak to a product development firm to gain the knowled
 <p>If the project plan is successful, I would have built a new computer or laptop with operating system that is easy to use and operate, durable in both software and hardware while being cheap to assemble.
 This may help people on the lower end of socio-economic scale gain affordable access to a computer system as we are continuing to be more reliant on technology and not everyone can afford the massive out lay on a reliable computer or laptop all at once. The initial cost of the compute or laptop will be low we hope to be able to achieve this by charging a small fee for our software updates. Recent events have made us more aware that we are well and truly in the digital age and not everyone has access to a simple computer system that is cost effective. This product should help ease the pressure off schools, parents/Students and professionals with its ease of use and affordability.
 
-<p> Reference*
-Ashley Poland
-‘The Average Lifespan of a Desktop PC’
+<h6> Reference* </h6>
+p {
+  colour: grey;
+  text-align: left;
+}
+<p>‘The Average Lifespan of a Desktop PC’(Accessed 18 June 2020)
 < https://www.techwalla.com/articles/the-average-lifespan-of-a-desktop-pc>
+Seek.com.au
+SEEK. (n.d.). IT Services Ninja. [online] (Accessed 18 June 2020).
+<https://www.seek.com.au/job/50087598?type=standout#searchRequestToken=7b4f2a36-36d4-4e04-a0b2-de906b63f0a3 >
+<p>Myers-Briggs Type Indicator - 16Personalities.com 2020. Introduction. Personality Type | Logician (INTP-T) Personality | At 16Personalities.com [online] (Accessed 10 July 2020).
+<https://www.16personalities.com/profiles/e32a9efc36406 >
+<p>EducationPlanner.org
+<p>Learning Style - EducationPlanner.org
+ 2020. Learning Styles Test (Free) At EducationPlanner.org [online] (Accessed 18 June 2020).
+<http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml>
+<p>OpenPsychometrics.org
+OpenPsychometrics.org 2020. Big Five Personality Test (Free) At Openpsychometrics.org [online] (Accessed 18 June 2020).
+<https://openpsychometrics.org/tests/IPIP-BFFM/>

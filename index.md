@@ -95,22 +95,28 @@ This may help people on the lower end of socio-economic scale gain affordable ac
 <style>
 p {
   color: grey;
-  text-align: center;
+  text-align: left;
 }
-</style>
+p {
+  font-family: calbri;
+  font-size: 10px;
+}
+</style>i
 </head>
 <body>
 <p>‘The Average Lifespan of a Desktop PC’(Accessed 18 June 2020)
 < https://www.techwalla.com/articles/the-average-lifespan-of-a-desktop-pc>
 Seek.com.au
-SEEK. (n.d.). IT Services Ninja. [online] (Accessed 18 June 2020).
+SEEK.(n.d.). IT Services Ninja. [online] (Accessed 18 June 2020).
 <https://www.seek.com.au/job/50087598?type=standout#searchRequestToken=7b4f2a36-36d4-4e04-a0b2-de906b63f0a3 >
 <p>Myers-Briggs Type Indicator - 16Personalities.com 2020. Introduction. Personality Type | Logician (INTP-T) Personality | At 16Personalities.com [online] (Accessed 10 July 2020).
 <https://www.16personalities.com/profiles/e32a9efc36406 >
 <p>EducationPlanner.org
-<p>Learning Style - EducationPlanner.org
+Learning Style - EducationPlanner.org
  2020. Learning Styles Test (Free) At EducationPlanner.org [online] (Accessed 18 June 2020).
 <http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml>
 <p>OpenPsychometrics.org
 OpenPsychometrics.org 2020. Big Five Personality Test (Free) At Openpsychometrics.org [online] (Accessed 18 June 2020).
 <https://openpsychometrics.org/tests/IPIP-BFFM/>
+</body>
+</html>

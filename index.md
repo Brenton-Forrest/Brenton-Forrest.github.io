@@ -1,12 +1,28 @@
+<!doctype html>
 <p align="center">
   <img src="https://brenton-forrest.github.io/images/BrentonForrest.JPG"
   width="200" title="Brenton-Forrest">
 <h1> My Personal Information </h1>
+<html>
+<head>
+<style>
+p.small {
+  line-height: 0.7;
+}
 
+p.big {
+  line-height: 1.8;
+}
+</style>
+</head>
+<body>
+<p class="big">
 <p> Brenton Forrest.
 <p> Student ID 3863020.
-<p> s3863020@student.rmit.edu.au
+<p> s3863020@student.rmit.edu.au </p>
 <p> Hi, I’m Brenton, I’m a born and raised Queenslander and currently reside in Brisbane, QLD. When in not working I like to play on my gaming Console as well spending time with my family including my fur babies. I am a qualified Chef with over a Decade of Industry Experience but I’m after a career change. So, I have enrolled to study with RMIT to get my degree in IT to help me excel with my new career path. Thanks for taking the time to check out my profile!
+</body>
+</html>
 
 <p align="center">
   <img src="https://brenton-forrest.github.io/images/staffies.jpeg"
@@ -101,7 +117,7 @@ p {
   font-family: calbri;
   font-size: 10px;
 }
-</style>i
+</style>
 </head>
 <body>
 <p>‘The Average Lifespan of a Desktop PC’(Accessed 18 June 2020)

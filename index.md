@@ -2,25 +2,11 @@
   <img src="https://brenton-forrest.github.io/images/BrentonForrest.JPG"
   width="200" title="Brenton-Forrest">
 <h1> My Personal Information </h1>
-<html>
-<head>
-<style>
-p.small {
-  line-height: 0.7;
-}
 
-p.big {
-  line-height: 1.8;
-}
-</style>
-</head>
-<body>
-<p class="big">
 <p> Brenton Forrest.
 <p> Student ID 3863020.
 <p> s3863020@student.rmit.edu.au </p>
-</body>
-</html>
+
 <p> Hi, I’m Brenton, I’m a born and raised Queenslander and currently reside in Brisbane, QLD. When in not working I like to play on my gaming Console as well spending time with my family including my fur babies. I am a qualified Chef with over a Decade of Industry Experience but I’m after a career change. So, I have enrolled to study with RMIT to get my degree in IT to help me excel with my new career path. Thanks for taking the time to check out my profile!</p>
 
 
@@ -106,20 +92,7 @@ There may be the need to speak to a product development firm to gain the knowled
 This may help people on the lower end of socio-economic scale gain affordable access to a computer system as we are continuing to be more reliant on technology and not everyone can afford the massive out lay on a reliable computer or laptop all at once. The initial cost of the compute or laptop will be low we hope to be able to achieve this by charging a small fee for our software updates. Recent events have made us more aware that we are well and truly in the digital age and not everyone has access to a simple computer system that is cost effective. This product should help ease the pressure off schools, parents/Students and professionals with its ease of use and affordability.</p>
 
 <h5> Reference* </h5>
-<html>
-<head>
-<style>
-p {
-  color: grey;
-  text-align: left;
-}
-p {
-  font-family: calbri;
-  font-size: 10px;
-}
-</style>
-</head>
-<body>
+
 <p>‘The Average Lifespan of a Desktop PC’(Accessed 18 June 2020)
 < https://www.techwalla.com/articles/the-average-lifespan-of-a-desktop-pc>
 <p>Seek.com.au
@@ -128,11 +101,8 @@ SEEK.(n.d.). IT Services Ninja. [online] (Accessed 18 June 2020).
 <p>Myers-Briggs Type Indicator - 16Personalities.com 2020. Introduction. Personality Type | Logician (INTP-T) Personality | At 16Personalities.com [online] (Accessed 10 July 2020).
 <https://www.16personalities.com/profiles/e32a9efc36406 >
 <p>EducationPlanner.org
-Learning Style - EducationPlanner.org
- 2020. Learning Styles Test (Free) At EducationPlanner.org [online] (Accessed 18 June 2020).
+Learning Style - EducationPlanner.org 2020. Learning Styles Test (Free) At EducationPlanner.org [online] (Accessed 18 June 2020).
 <http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml>
 <p>OpenPsychometrics.org
 OpenPsychometrics.org 2020. Big Five Personality Test (Free) At Openpsychometrics.org [online] (Accessed 18 June 2020).
 <https://openpsychometrics.org/tests/IPIP-BFFM/></p>
-</body>
-</html>

@@ -89,11 +89,17 @@ There may be the need to speak to a product development firm to gain the knowled
 <p>If the project plan is successful, I would have built a new computer or laptop with operating system that is easy to use and operate, durable in both software and hardware while being cheap to assemble.
 This may help people on the lower end of socio-economic scale gain affordable access to a computer system as we are continuing to be more reliant on technology and not everyone can afford the massive out lay on a reliable computer or laptop all at once. The initial cost of the compute or laptop will be low we hope to be able to achieve this by charging a small fee for our software updates. Recent events have made us more aware that we are well and truly in the digital age and not everyone has access to a simple computer system that is cost effective. This product should help ease the pressure off schools, parents/Students and professionals with its ease of use and affordability.
 
-<h6> Reference* </h6>
+<h5> Reference* </h5>
+<html>
+<head>
+<style>
 p {
-  colour: grey;
-  text-align: left;
+  color: grey;
+  text-align: center;
 }
+</style>
+</head>
+<body>
 <p>‘The Average Lifespan of a Desktop PC’(Accessed 18 June 2020)
 < https://www.techwalla.com/articles/the-average-lifespan-of-a-desktop-pc>
 Seek.com.au
